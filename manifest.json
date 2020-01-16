@@ -1,0 +1,21 @@
+{
+  "short_name": "Pipa",
+  "name": "Pipa illustration",
+  "start_url": "/pipa_v0.1/",
+  "scope": "/pipa_v0.1/",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "git/img/icon/android-icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "git/img/icon/splah-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "background_color": "#FFF",
+  "theme_color": "#FF6347"
+}
